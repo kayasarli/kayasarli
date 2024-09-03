@@ -4,8 +4,6 @@ Hi! My name is Kaya, and I'm a student in Hisar School.
 Currently I am studying AP CSP and have a dream about it in my future career. 
 I am really into sports, I enjoy playing basketball and espacially football.
 I even love watching and also playing video games about sports.
-Since I was a kid, I was into sports, my family had a really big affect on this aswell.
-Within computer science, I am interested in connecting artificial intelligence into sports in a high level condution.
 
 CS 50 Course:
 
